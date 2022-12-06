@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 #include "lib.h"
 using namespace std;
 int main(){
@@ -165,4 +165,4 @@ if(riconoscere(y) == 0){
 else {
     cout<<"errore";
 }
-    }
+    }
