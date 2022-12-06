@@ -1,3 +1,9 @@
+#include <iostream>
+#include "lib.h"
+using namespace std;
+int main(){
+    char y;
+    cin>>y;
 if(riconoscere(y) == 0){
         if (y=='a'){
             cout<<"A";
